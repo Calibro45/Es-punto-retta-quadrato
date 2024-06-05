@@ -1,0 +1,14 @@
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\bin\Debug\net8.0\EsercizioPunto.exe
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\bin\Debug\net8.0\EsercizioPunto.deps.json
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\bin\Debug\net8.0\EsercizioPunto.runtimeconfig.json
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\bin\Debug\net8.0\EsercizioPunto.dll
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\bin\Debug\net8.0\EsercizioPunto.pdb
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\EsercizioPunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\EsercizioPunto.AssemblyInfoInputs.cache
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\EsercizioPunto.AssemblyInfo.cs
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\EsercizioPunto.csproj.CoreCompileInputs.cache
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\EsercizioPunto.dll
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\refint\EsercizioPunto.dll
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\EsercizioPunto.pdb
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\EsercizioPunto.genruntimeconfig.cache
+C:\Users\ANDREA\source\repos\EsercizioPunto\EsercizioPunto\obj\Debug\net8.0\ref\EsercizioPunto.dll
